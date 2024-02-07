@@ -60,7 +60,7 @@ yat:
 # debug: false
 
 # If you don't want transparent header, you can set false (해더 투명도)
-header_transparent: true
+header_transparent: false
 
 # If you want to change the content width, you can set to another value 
 # content_width: "920px" (콘텐츠 너비 변경)
